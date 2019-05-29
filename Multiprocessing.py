@@ -78,3 +78,6 @@ if __name__ == '__main__':
         logging.info('Error 0')
         logging.info(str(a) + '\n')
 
+        print()
+        print()
+
